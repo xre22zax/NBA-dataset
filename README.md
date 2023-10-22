@@ -13,10 +13,10 @@
 ## Libraries and function in this project :
 
 | Library | Function |
-| pandas | crosstab |
-| numpy | cov |
-|scipy.stats | chi2, pval, dof, expected , pearsonr |
-| matplotlib | scatter plot, histogram plot, legend |
-| seaborn | boxplot |
-
-
+| :-------- | :-------------------------------- |
+| `pandas `      | crosstab |
+| `numpy `      | cov |
+| `scipy.stats `      | chi2, pval, dof, expected , pearsonr |
+| `matplotlib `      | scatter plot, histogram plot, legend  |
+| `numpy `      | cov |
+| `seaborn  `      | boxplot |
